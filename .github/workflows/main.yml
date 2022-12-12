@@ -18,6 +18,8 @@ jobs:
         
       - name: run Python
         run: python src/main.py run
+      - name: run Pythontets  
+        run: python test/test.py
           
       
  
